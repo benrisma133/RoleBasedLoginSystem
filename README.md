@@ -77,11 +77,4 @@ Traditional approaches often duplicate code for each role:
 
 ---
 
-## Steps to Push to GitHub
 
-1. Create a new repository on GitHub named `RoleBasedLoginSystem`.
-2. Initialize git in your project folder:
-
-```bash
-cd path_to_project
-git init
