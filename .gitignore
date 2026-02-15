@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Resharper
+*.ReSharper
+*.DotSettings.user
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Others
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+TestResults/
+*.vspscc
+*.vssscc
+
+# Mac / Linux
+*.DS_Store
